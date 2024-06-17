@@ -1,0 +1,22 @@
+C:\Users\Home-pc\Desktop\PR_2.2\PR_2.2\obj\Debug\PR_2.2.csproj.AssemblyReference.cache
+C:\Users\Home-pc\Desktop\PR_2.2\PR_2.2\obj\Debug\PR_2._2.Form1.resources
+C:\Users\Home-pc\Desktop\PR_2.2\PR_2.2\obj\Debug\PR_2._2.Form2.resources
+C:\Users\Home-pc\Desktop\PR_2.2\PR_2.2\obj\Debug\PR_2._2.Properties.Resources.resources
+C:\Users\Home-pc\Desktop\PR_2.2\PR_2.2\obj\Debug\PR_2.2.csproj.GenerateResource.cache
+C:\Users\Home-pc\Desktop\PR_2.2\PR_2.2\obj\Debug\PR_2.2.csproj.CoreCompileInputs.cache
+C:\Users\Home-pc\Desktop\PR_2.2\PR_2.2\bin\Debug\PR_2.2.exe.config
+C:\Users\Home-pc\Desktop\PR_2.2\PR_2.2\bin\Debug\PR_2.2.exe
+C:\Users\Home-pc\Desktop\PR_2.2\PR_2.2\bin\Debug\PR_2.2.pdb
+C:\Users\Home-pc\Desktop\PR_2.2\PR_2.2\obj\Debug\PR_2.2.exe
+C:\Users\Home-pc\Desktop\PR_2.2\PR_2.2\obj\Debug\PR_2.2.pdb
+C:\Users\Home-pc\Desktop\Разработка\Разработка кода информационных систем\PR_2.2 - +\PR_2.2\PR_2.2\bin\Debug\PR_2.2.exe.config
+C:\Users\Home-pc\Desktop\Разработка\Разработка кода информационных систем\PR_2.2 - +\PR_2.2\PR_2.2\bin\Debug\PR_2.2.exe
+C:\Users\Home-pc\Desktop\Разработка\Разработка кода информационных систем\PR_2.2 - +\PR_2.2\PR_2.2\bin\Debug\PR_2.2.pdb
+C:\Users\Home-pc\Desktop\Разработка\Разработка кода информационных систем\PR_2.2 - +\PR_2.2\PR_2.2\obj\Debug\PR_2.2.csproj.AssemblyReference.cache
+C:\Users\Home-pc\Desktop\Разработка\Разработка кода информационных систем\PR_2.2 - +\PR_2.2\PR_2.2\obj\Debug\PR_2._2.Form1.resources
+C:\Users\Home-pc\Desktop\Разработка\Разработка кода информационных систем\PR_2.2 - +\PR_2.2\PR_2.2\obj\Debug\PR_2._2.Form2.resources
+C:\Users\Home-pc\Desktop\Разработка\Разработка кода информационных систем\PR_2.2 - +\PR_2.2\PR_2.2\obj\Debug\PR_2._2.Properties.Resources.resources
+C:\Users\Home-pc\Desktop\Разработка\Разработка кода информационных систем\PR_2.2 - +\PR_2.2\PR_2.2\obj\Debug\PR_2.2.csproj.GenerateResource.cache
+C:\Users\Home-pc\Desktop\Разработка\Разработка кода информационных систем\PR_2.2 - +\PR_2.2\PR_2.2\obj\Debug\PR_2.2.csproj.CoreCompileInputs.cache
+C:\Users\Home-pc\Desktop\Разработка\Разработка кода информационных систем\PR_2.2 - +\PR_2.2\PR_2.2\obj\Debug\PR_2.2.exe
+C:\Users\Home-pc\Desktop\Разработка\Разработка кода информационных систем\PR_2.2 - +\PR_2.2\PR_2.2\obj\Debug\PR_2.2.pdb
